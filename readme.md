@@ -31,7 +31,7 @@
         "warcraft": "brewmaster monk"
     },
     "repositories": {
-        "bookmark": "bookmark",
+        "bookmark": "bookmark collections",
         "dotconfig": "debian12 config"
     },
 
