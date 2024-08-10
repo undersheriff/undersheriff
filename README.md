@@ -32,9 +32,7 @@
     },
     "repositories": {
         "bookmark": "bookmark",
-        "config": "debian12 dotconfig files",
-        "radio": "dx logging",
-        "textfile": "textfile"
+        "dotconfig": "debian12 config"
     },
 
 }
