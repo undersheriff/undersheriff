@@ -3,7 +3,7 @@
     "applications": {
         "bittorrent": "transmission",
         "browser": "brave",
-        "devengine": "godot",
+        "dev engine": "godot",
         "graphical": "gimp",
         "messenger": "discord",
         "network scanner": "nmap",
@@ -28,7 +28,7 @@
         "dungeons": "phantom rogue/death cleric",
         "ffxiv": "reaper",
         "mtg": "tbd",
-        "warcraft": "daggerspine > brewmaster monk"
+        "warcraft": "brewmaster monk"
     },
     "repositories": {
         "bookmark": "bookmark",
