@@ -26,6 +26,13 @@
             "osint compiler"
         ],
     },
+    "gamedev": {
+        "project.0": "project.0",
+        "clones": [
+            "pong",
+            "river raid"
+        ]
+    }
     "in-game mains": {
         "dungeons": "tabaxi phantom rogue/death cleric",
         "ffxiv": "viera reaper",
