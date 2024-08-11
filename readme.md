@@ -34,7 +34,9 @@
     },
     "repositories": {
         "bookmark": "bookmark collections",
-        "dotconfig": "debian12 config"
+        "dotconfig": "debian12 config",
+        "python": "python scripting",
+        "textfile":
     },
 
 }
