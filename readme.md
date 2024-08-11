@@ -27,12 +27,14 @@
         ],
     },
     "gamedev": {
-        "project.0": "project.0",
         "clones": [
             "pong",
             "astrroids",
             "river raid"
-        ]
+        ],
+        "arcade": "project.2",
+        "fighter": "project.1",
+        "platform": "project.0"
     }
     "in-game mains": {
         "dungeons": "tabaxi phantom rogue/death cleric",
