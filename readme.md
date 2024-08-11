@@ -27,10 +27,10 @@
         ],
     },
     "in-game mains": {
-        "dungeons": "phantom rogue/death cleric",
-        "ffxiv": "reaper",
+        "dungeons": "tabaxi phantom rogue/death cleric",
+        "ffxiv": "viera reaper",
         "mtg": "tbd",
-        "warcraft": "brewmaster monk"
+        "warcraft": "pandaren brewmaster monk"
     },
     "repositories": {
         "bookmark": "bookmark collections",
