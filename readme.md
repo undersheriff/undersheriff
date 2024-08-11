@@ -1,5 +1,8 @@
 ```json
 {
+    "narrative": {
+        "placeholder paragraph."
+    }
     "applications": {
         "bittorrent": "transmission",
         "browser": "brave",
