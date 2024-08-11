@@ -30,6 +30,7 @@
         "project.0": "project.0",
         "clones": [
             "pong",
+            "astrroids",
             "river raid"
         ]
     }
