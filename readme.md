@@ -23,8 +23,7 @@
         "nuisance": [
             "game dev",
             "humint expert",
-            "osint compiler",
-            "polyglot"
+            "osint compiler"
         ],
     },
     "in-game mains": {
