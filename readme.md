@@ -1,8 +1,9 @@
 ```json
 {
     "narrative": {
-        "this is my personal github. undersheriff games is not a registered business in the state of montana. taxation is",
-        "theft."
+        "this is my personal github.",
+        "undersheriff games is not a registered business in the state of montana. taxation is theft.",
+        "formatted for widescreen, high resolution."
     }
     "applications": {
         "bittorrent": "transmission",
