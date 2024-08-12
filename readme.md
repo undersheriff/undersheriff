@@ -8,7 +8,7 @@
     "applications": {
         "bittorrent": "transmission",
         "browser": "brave",
-        "dev engine": "godot",
+        "dev engine": "godot 4",
         "graphical": "gimp",
         "messenger": "discord",
         "network scanner": "nmap",
