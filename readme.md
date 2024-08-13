@@ -45,7 +45,6 @@
         "warcraft": "pandaren brewmaster monk"
     },
     "repositories": {
-        "bookmark": "bookmark collections",
         "dotconfig": "debian12 config",
         "python": "python scripting",
         "textfile":
