@@ -11,6 +11,7 @@
         "dev engine": "godot 4",
         "graphical": "gimp",
         "messenger": "discord",
+        "nesemulator": "fceux",
         "network scanner": "nmap",
         "package manager": "nala",
         "spreadsheet": "calc",
