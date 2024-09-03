@@ -1,7 +1,7 @@
 ```json
 {
     "about": {
-        "undersheriff linux": "this serves as my personal data collection."
+        "undersheriff on linux": "this serves as my personal data collection."
     },
     "demographics": {
         "login": "undersheriff",
