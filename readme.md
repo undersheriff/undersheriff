@@ -1,11 +1,16 @@
+<h5>
+this github account and pages serve as my personal data collection point.<br><br>
+</h5>
+
 ```json
 {
     "about": {
-        "undersheriff on linux": "this serves as my personal data collection."
-    },
-    "demographics": {
-        "login": "undersheriff",
-        "distribution": "debian12"
+        "undersheriff on linux": [
+            "armed nuisance",
+            "retro gamedev",
+            "ttrpg devotee",
+            "unlicensed hf operator"
+        ],
     },
 }
 
