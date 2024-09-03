@@ -1,7 +1,4 @@
-<h5>
-this github account and pages serve as my personal data collection point.<br><br>
-</h5>
-
+this github account and pages serve as my personal data collection point. formatting is maintained for my devices.<br><br>
 ```json
 {
     "about": {
