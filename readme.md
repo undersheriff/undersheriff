@@ -1,2 +1,10 @@
-readme.md<br>
-placeholder
+```json
+{
+    "demographics": {
+        "login": "undersheriff",
+        "distribution": "debian12",
+        ],
+    },
+}
+
+```
