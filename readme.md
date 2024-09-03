@@ -1,4 +1,4 @@
-this github account and pages serve as my personal data collection point. formatting is maintained for my devices.<br><br>
+this github account and pages serve as my personal data collection point. formatting is created and coded for my devices.<br><br>
 ```json
 {
     "about": {
