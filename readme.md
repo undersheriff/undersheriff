@@ -4,9 +4,10 @@ this github account and pages serve as my personal data collection point. format
     "about": {
         "undersheriff on linux": [
             "armed nuisance and weaponsmith",
+            "ttrpg homebrew god",
             "retro gamedev",
-            "ttrpg devotee",
-            "unlicensed hf operator"
+            "unlicensed hf operator",
+            "humint expert"
         ],
     },
 }
