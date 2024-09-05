@@ -5,7 +5,7 @@ this github account and pages serve as my personal data collection point. format
         "undersheriff on linux": [
             "armed nuisance and weaponsmith",
             "pathfinder/d&d homebrew god",
-            "retro gamedev",
+            "retro gamedev hacker",
             "unlicensed hf operator",
             "humint expert"
         ],
