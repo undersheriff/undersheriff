@@ -3,7 +3,7 @@ this github account and pages serve as my personal data collection point. format
 {
     "about": {
         "undersheriff on linux": [
-            "armed nuisance",
+            "armed nuisance and weaponsmith",
             "retro gamedev",
             "ttrpg devotee",
             "unlicensed hf operator"
