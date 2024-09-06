@@ -10,6 +10,15 @@ this github account and pages serve as my personal data collection point. format
             "humint expert"
         ],
     },
+    "distribution": {
+        "debian 12": [
+            "browser": "brave",
+            "package manager": "nala",
+            "spreadsheet": "calc",
+            "terminal": "alacritty",
+            "text editor": "writer",
+        ],
+    },
 }
 
 ```
