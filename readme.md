@@ -12,12 +12,13 @@ this github account and pages serve as my personal data collection point. format
         ],
     },
     "distribution": {
-        "debian 12": [
+        "mint debian edition": [
             "browser": "brave",
             "package manager": "nala",
             "spreadsheet": "calc",
             "terminal": "alacritty",
             "text editor": "writer",
+            "torrent": "transmission"
         ],
     },
 }
