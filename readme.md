@@ -12,7 +12,7 @@ this github account and pages serve as my personal data collection point. format
         ],
     },
     "distribution": {
-        "mint debian edition": [
+        "lmde 6": [
             "browser": "brave",
             "package manager": "nala",
             "spreadsheet": "calc",
