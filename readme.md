@@ -12,13 +12,14 @@ this github account and pages serve as my personal data collection point. format
         ],
     },
     "distribution": {
-        "lmde 6": [
+        "debian 12": [
             "browser": "brave",
             "package manager": "nala",
             "spreadsheet": "calc",
             "terminal": "alacritty",
-            "text editor": "writer",
-            "torrent": "transmission"
+            "text editor": "emacs",
+            "torrent": "transmission",
+            "word processor": "writer"
         ],
     },
 }
