@@ -17,8 +17,7 @@ this github account and pages serve as my personal data collection point. format
             "package manager": "nala",
             "spreadsheet": "calc",
             "terminal": "alacritty",
-            "text editor": "emacs",
-            "torrent": "transmission",
+            "text editor": "kate",
             "word processor": "writer"
         ],
     },
